@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": [
+      {
+        "text": "Air = Block, Block = Air",
+        "color": "#5c5c5c"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Quidvio",
+        "color": "#ffc76f"
+      }
+    ]
+    }
+}

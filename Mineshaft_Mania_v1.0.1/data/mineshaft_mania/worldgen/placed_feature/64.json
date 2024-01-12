@@ -1,0 +1,11 @@
+{
+  "feature": "mineshaft_mania:barrier_remover",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "absolute": 55
+      }
+    }
+  ]
+}

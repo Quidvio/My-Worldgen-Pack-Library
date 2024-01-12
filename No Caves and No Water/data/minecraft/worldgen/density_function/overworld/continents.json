@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "no_caves:continents",
+  "min_inclusive": -10,
+  "max_exclusive": 0,
+  "when_in_range": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "no_caves:continents",
+      "points": [
+        {
+          "location": -1.5,
+          "derivative": 0,
+          "value": -0.1
+        },
+        {
+          "location": 0,
+          "derivative": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "when_out_of_range": "no_caves:continents"
+}

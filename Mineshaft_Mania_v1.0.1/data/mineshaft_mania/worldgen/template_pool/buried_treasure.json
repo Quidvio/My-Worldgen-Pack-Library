@@ -1,0 +1,15 @@
+{
+  "name": "mineshaft_mania:buried_treasure",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mineshaft_mania:buried_treasure_replica",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
