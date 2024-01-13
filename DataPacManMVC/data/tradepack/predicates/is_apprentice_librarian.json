@@ -1,0 +1,19 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "type": "minecraft:villager",
+            "nbt": "{VillagerData:{profession:\"minecraft:librarian\"}}"
+        }
+    },
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "type": "minecraft:villager",
+            "nbt": "{VillagerData:{level:2}}"
+        }
+    }
+]
+
