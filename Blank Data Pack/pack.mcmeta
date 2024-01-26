@@ -1,0 +1,35 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Blank Data Pack",
+        "color": "#ffa71a"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Joe Mama",
+        "color": "#fffff"
+      }
+    ],
+    "pack_format": 15,
+    "supported_formats": [
+      15,
+      999
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [
+          999,
+          999
+        ],
+        "directory": "overlay1"
+      }
+    ]
+  }
+}

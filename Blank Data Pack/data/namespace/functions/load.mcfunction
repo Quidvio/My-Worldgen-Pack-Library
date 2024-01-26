@@ -1,0 +1,1 @@
+# This function activates upon loading. Note the world and players may or may not be loaded when this happens. 
