@@ -1,0 +1,1 @@
+gamerule doTileDrops false
