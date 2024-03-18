@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:range_choice",
+    "input": "minecraft:y",
+    "min_inclusive": -64,
+    "max_exclusive": 0,
+    "when_in_range": "minecraft:util/default_continents",
+    "when_out_of_range": "minecraft:util/only_oceans_continents"
+}
