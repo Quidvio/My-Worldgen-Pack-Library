@@ -1,35 +1,6 @@
 {
   "pack": {
-    "description": [
-      {
-        "text": "Oceans and Caves Worldgen",
-        "color": "#02c4d6"
-      },
-      "\n",
-      {
-        "text": "Made by ",
-        "color": "#AAAAAA"
-      },
-      {
-        "text": "Quidvio",
-        "color": "#ffc76f"
-      }
-    ],
-    "pack_format": 15,
-    "supported_formats": [
-      15,
-      18
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "formats": [
-          17,
-          18
-        ],
-        "directory": "1-20-2-pack"
-      }
-    ]
+    "pack_format": 48,
+    "description": ""
   }
 }
